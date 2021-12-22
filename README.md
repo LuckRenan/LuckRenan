@@ -1,4 +1,4 @@
-<b>Oi, Meu nome é Lucas, sou desenvolvedor front-end!<b>
+<h1>Oi, Meu nome é Lucas, sou desenvolvedor front-end!</h1>
 
 <!---
 LuckRenan/LuckRenan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
